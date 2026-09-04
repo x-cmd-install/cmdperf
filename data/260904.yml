@@ -1,11 +1,13 @@
 about:
-  description: Command Performance Benchmarking
+  description:
+  |
+    Command Performance Benchmarking
   license: MIT
   homepage: 
   head: dc1c07d
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T04:47:04Z
+  collectedAt: 2026-09-04T19:45:13Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-08-19
@@ -16,16 +18,24 @@ popularity:
   fork: 0
   release: 5
   contributor: 2
-  pullRequest: 4
+  pullRequest: 19
   issue: 2
 language:
   Go: 95262
   Shell: 14818
   Makefile: 924
-totalLine: 111004
+totalBytes: 111004
 recent:
   last30d:
     since: 2026-08-05
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 9
+  last60d:
+    since: 2026-07-06
     release: 1
     mergedPR: 8
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 14
+  last720d:
+    since: 2024-09-14
+    release: 5
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 27
+total:
+  release: 5
+  mergedPR: 15
+  openPR: 0
+  closedIssue: 2
+  openIssue: 0
+  commit: 27
+---
+---
+
