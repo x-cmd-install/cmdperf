@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8622306,
       "digest": "sha256:f163dc8ad7be820276f101f08e22eb5088adb8d1fa6516e57b3ce994439a2b09",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-19T13:53:50Z",
       "updated_at": "2026-08-19T13:53:51Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Darwin_arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8937656,
       "digest": "sha256:7ceeae07e359a2e40beb47a029f81d19e62cf41390e1de6a0473b8090cc240e2",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-19T13:53:49Z",
       "updated_at": "2026-08-19T13:53:49Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Linux_x86_64"
