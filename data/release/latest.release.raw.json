@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8622306,
       "digest": "sha256:f163dc8ad7be820276f101f08e22eb5088adb8d1fa6516e57b3ce994439a2b09",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-19T13:53:50Z",
       "updated_at": "2026-08-19T13:53:51Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Darwin_arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9137216,
       "digest": "sha256:828ced6cfe6f839cadba9c35a05068a174abeafdb68ac2522c9b138b58c860df",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-19T13:53:50Z",
       "updated_at": "2026-08-19T13:53:51Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Darwin_x86_64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 8454338,
       "digest": "sha256:eef2a5481f666375990cc38842f767cad2ec58ad15be4d5ddcc572980d5110fc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-19T13:53:47Z",
       "updated_at": "2026-08-19T13:53:48Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Freebsd_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 8499394,
       "digest": "sha256:377e53f5023141cf9b66594d1402fc6d66039d9e60c6cea82439556b5df21c9d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-19T13:53:47Z",
       "updated_at": "2026-08-19T13:53:48Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Freebsd_i386"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 8921282,
       "digest": "sha256:102600ab808d602fee7235a09d14ea9112ce3066d8a981f365147b53369ac136",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-19T13:53:47Z",
       "updated_at": "2026-08-19T13:53:48Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Freebsd_x86_64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8454328,
       "digest": "sha256:7f99b153e153e20bd7271c016458484a98c3758a53939a1a7ad9ea79d71a7a79",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-08-19T13:53:47Z",
       "updated_at": "2026-08-19T13:53:48Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Linux_arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 8581304,
       "digest": "sha256:404386a8304c6c5b11350de2007fc9dd6ffa4df6c77f5681b07f74a023117722",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-08-19T13:53:50Z",
       "updated_at": "2026-08-19T13:53:51Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Linux_i386"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8937656,
       "digest": "sha256:7ceeae07e359a2e40beb47a029f81d19e62cf41390e1de6a0473b8090cc240e2",
-      "download_count": 25,
+      "download_count": 30,
       "created_at": "2026-08-19T13:53:49Z",
       "updated_at": "2026-08-19T13:53:49Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Linux_x86_64"
