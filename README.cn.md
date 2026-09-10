@@ -1,51 +1,51 @@
 # cmdperf
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Command Performance Benchmarking
 
-![cmdperf](https://repo.x-cmd.io/cmdperf.svg)
+![cmdperf](https://repo.x-cmd.io/cmdperf.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install cmdperf
 ```
 
-## Code insight
+## 代码规模
 
-Total: **3,195** lines of code across **41** files in the top 5 languages.
+合计: **3,195** 行代码（覆盖前 5 种语言、共 **41** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 2,806 | 317 | 477 | 31 |
 | Sh | 291 | 64 | 60 | 6 |
 | Yaml | 42 | 5 | 9 | 1 |
 | Toml | 31 | 2 | 10 | 2 |
 | Makefile | 25 | 0 | 8 | 1 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/miklosn/cmdperf>
-- **License**: MIT
+- **上游仓库**: <https://github.com/miklosn/cmdperf>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.2.0` (2026-08-19)
-- **Last commit**: 2026-08-19
-- **Assets in release**: 18
+- **最新版本**: `v0.2.0` (2026-08-19)
+- **最近提交**: 2026-08-19
+- **Release 含资产**: 18 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 40 · **Forks**: 0 · **Open issues**: 2 · **Contributors**: 2
+- **Star**: 40 · **Fork**: 0 · **开放 issue**: 2 · **贡献者**: 2
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 5 · **Merged PRs**: 15 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 27
+- **发布数**: 5 · **已合并 PR**: 15 · **开放 PR**: 0 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 27
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 8 | 0 | 0 | 0 | 5 |
 | last60d | 2026-07-12 | 1 | 8 | 0 | 0 | 0 | 9 |
@@ -54,10 +54,10 @@ Total: **3,195** lines of code across **41** files in the top 5 languages.
 | 360d | 2025-09-15 | 2 | 10 | 0 | 0 | 0 | 14 |
 | last720d | 2024-09-20 | 5 | 15 | 0 | 2 | 0 | 27 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [cmdperf_0.2.0_checksums.txt](https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_0.2.0_checksums.txt) | 1.5 KiB | `other` |
 | [cmdperf_0.2.0_linux_386.deb](https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_0.2.0_linux_386.deb) | 3.4 MiB | `other` |
 | [cmdperf_0.2.0_linux_386.rpm](https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_0.2.0_linux_386.rpm) | 3.4 MiB | `other` |
@@ -77,13 +77,13 @@ Total: **3,195** lines of code across **41** files in the top 5 languages.
 | [cmdperf_Windows_i386.exe](https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Windows_i386.exe) | 8.5 MiB | `native/win/x64` |
 | [cmdperf_Windows_x86_64.exe](https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Windows_x86_64.exe) | 8.9 MiB | `native/win/x64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for cmdperf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cmdperf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+cmdperf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cmdperf` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cmdperf.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/cmdperf.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:58:53Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:58:53Z._
