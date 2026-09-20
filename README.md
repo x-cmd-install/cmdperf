@@ -4,7 +4,7 @@
 
 Command Performance Benchmarking
 
-![cmdperf](https://repo.x-cmd.io/cmdperf.svg)
+[![x-cmd/install — cmdperf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cmdperf.svg)](https://x-cmd.com/install/cmdperf)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **3,195** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 8 | 0 | 0 | 0 | 9 |
-| 90d | 2026-06-20 | 1 | 8 | 0 | 0 | 0 | 9 |
-| last180d | 2026-03-22 | 1 | 9 | 0 | 0 | 0 | 11 |
-| 360d | 2025-09-23 | 2 | 10 | 0 | 0 | 0 | 14 |
-| last720d | 2024-09-28 | 5 | 15 | 0 | 2 | 0 | 27 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 8 | 0 | 0 | 0 | 9 |
+| 90d | 2026-06-22 | 1 | 8 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-24 | 1 | 9 | 0 | 0 | 0 | 11 |
+| 360d | 2025-09-25 | 2 | 10 | 0 | 0 | 0 | 14 |
+| last720d | 2024-09-30 | 5 | 15 | 0 | 2 | 0 | 27 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for cmdperf lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:33:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:30:53Z._
