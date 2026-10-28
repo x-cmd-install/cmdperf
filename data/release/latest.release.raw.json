@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8937656,
       "digest": "sha256:7ceeae07e359a2e40beb47a029f81d19e62cf41390e1de6a0473b8090cc240e2",
-      "download_count": 102,
+      "download_count": 104,
       "created_at": "2026-08-19T13:53:49Z",
       "updated_at": "2026-08-19T13:53:49Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Linux_x86_64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 8897536,
       "digest": "sha256:5005d0b7720fb39b030c1e37575a2d8420577d1cc8fda85d27ed0efa5be4ad65",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-19T13:53:48Z",
       "updated_at": "2026-08-19T13:53:49Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Windows_i386.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 9304576,
       "digest": "sha256:5d99d2a81d0a69b4e78794e5994e593a53bcacf2f28396672c69b73dd63aed0a",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-08-19T13:53:48Z",
       "updated_at": "2026-08-19T13:53:49Z",
       "browser_download_url": "https://github.com/miklosn/cmdperf/releases/download/v0.2.0/cmdperf_Windows_x86_64.exe"
